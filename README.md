@@ -1,4 +1,4 @@
-# Job_Hunting
+# Property_Dealers
 
 <h2>Description</h2>
 <p>An online property dealing website with the functionalities of create,delete and update properties</p>
